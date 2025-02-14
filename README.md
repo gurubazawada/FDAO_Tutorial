@@ -40,7 +40,6 @@ This project demonstrates how to build and deploy a decentralized chat board whe
 
 ### 4. Running & Deployment
 - **Local Testing:** Run the React app locally to test interactions.
-- **Build & Deploy:** Once confirmed, build the React app and deploy it using your preferred hosting platform (e.g., Vercel, Netlify, GitHub Pages).
 
 ## Video Tutorial
 
@@ -48,14 +47,6 @@ For a detailed, step-by-step walkthrough of the entire process—from setting up
 
 *Note: This video tutorial is for franklindao dev team members.*
 
-## Additional Notes
-
-- **Security & Gas Considerations:**  
-  This project is a simple example. For production use, consider implementing enhanced security measures, gas optimizations, and robust error handling.
-
-- **UX Enhancements:**  
-  Feel free to improve the styling and user experience using modern CSS frameworks or styled-components.
-
-Happy coding and enjoy your decentralized chat board dApp!
+Happy coding!
 
 ---
